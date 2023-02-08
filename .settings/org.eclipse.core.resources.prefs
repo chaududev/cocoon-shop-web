@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//Controller/Controller/dangnhap.java=UTF-8
+encoding//Controller/Controller/dathang.java=UTF-8
+encoding//Controller/Controller/xulihang.java=UTF-8
+encoding//Controller/Controller/xuliloai.java=UTF-8
+encoding//Controller/Controller/xulitaikhoan.java=UTF-8
+encoding//Model/dao/dangnhapdao.java=UTF-8
+encoding//Model/dao/hangdao.java=UTF-8
+encoding//Model/dao/hoadondao.java=UTF-8
+encoding//Model/dao/loaidao.java=UTF-8
+encoding//WebContent/product.jsp=UTF-8
+encoding//WebContent/test.jsp=UTF-8
+encoding//WebContent/testadmin.jsp=UTF-8
